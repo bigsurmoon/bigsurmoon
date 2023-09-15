@@ -1,10 +1,10 @@
-Hi 👋 My name is Edward Ryzhkov
+Hi!
 ===============================
 
 Junior QA Automation Engineer
 -----------------------------
 
-I'm Junior QA Automation Engineer, who switched career a couple of years ago and started a new journey in his life Hobbies: playing electric guitar, movies, astrophysics, video and board games, exploring places and learning new things
+Hi, my name is Eduard Ryzhkov and I'm Junior QA Automation Engineer, who switched career a couple of years ago and started a new journey in his life Hobbies: playing electric guitar, movies, astrophysics, video and board games, exploring places and learning new things
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [vinny4000@gmail.com](mailto:vinny4000@gmail.com)
@@ -24,6 +24,10 @@ I'm Junior QA Automation Engineer, who switched career a couple of years ago and
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/bigsurmoon"><img src="https://github-readme-stats.vercel.app/api?username=bigsurmoon&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="bigsurmoon's GitHub stats" /></a>
+
+<a href="http://www.github.com/bigsurmoon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bigsurmoon&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/bigsurmoon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigsurmoon&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/bigsurmoon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bigsurmoon&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
