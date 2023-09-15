@@ -7,7 +7,7 @@ Junior QA Automation Engineer
 Hi, my name is Edward Ryzhkov and I'm Junior QA Automation Engineer, who switched career a couple of years ago and started a new journey in his life Love: playing electric guitar, movies, astrophysics, video and board games, exploring places and learning new things and cats ofc
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [vinny4000@gmail.com](mailto:vinny4000@gmail.com)
+* ✉️  You can contact me at [edward.ryzhkov@gmail.com](mailto:edward.ryzhkov@gmail.com)
 * 🧠  I'm learning how to code living this life
 
 ### Skills
