@@ -28,6 +28,9 @@ Love: playing electric guitar, movies, astrophysics, video and board games, expl
   <a href="https://www.stackoverflow.com/users/22514949/bigsurmoon" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" />
   </a>
+  <a href="https://t.me/nottinghamlace" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="32" height="32" alt="Telegram" />
+  </a>
 </p>
 
 ### Skills
