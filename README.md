@@ -96,7 +96,7 @@ Love: playing electric guitar, movies, astrophysics, video and board games, expl
   </a>
 </p>
 
-### Top Repositories
+### Portfolio
 
 <div width="100%" align="center">
   <a href="https://github.com/bigsurmoon/diploma" align="left">
