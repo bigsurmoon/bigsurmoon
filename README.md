@@ -10,7 +10,7 @@ Love: playing electric guitar, movies, astrophysics, video and board games, expl
 
 * 🌍 Based in Moscow
 * 👨‍💻 All of my projects are available at [https://github.com/bigsurmoon?tab=repositories](https://github.com/bigsurmoon?tab=repositories)
-* 💾 [Main project](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/README.md) with instruments and skills: Checklist, Test Cases, OOP, Git, Android Studio, Java, Gradle, Allure
+* 💾 [Main project](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/README.md) with instruments and skills: Checklist, Test Cases, OOP, Git, Android Studio, Java, Espresso, Gradle, Allure
 * 📄 My CV: [https://hh.ru/resume/1461a278ff0bd042fb0039ed1f32416e615862](https://hh.ru/resume/1461a278ff0bd042fb0039ed1f32416e615862)
 * ✉️ You can contact me at [edward.ryzhkov@gmail.com](mailto:edward.ryzhkov@gmail.com)
 
@@ -110,4 +110,5 @@ Love: playing electric guitar, movies, astrophysics, video and board games, expl
 
 ### GitHub Stats
 
-<a href="https://github.com/bigsurmoon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigsurmoon&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/bigsurmoon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigsurmoon&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
