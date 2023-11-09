@@ -105,6 +105,9 @@ Love: playing electric guitar, movies, astrophysics, video and board games, expl
   <a href="https://github.com/bigsurmoon/java8.1" align="right">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=java8.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
+  <a href="https://github.com/bigsurmoon/aqa3.1" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=diploma&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 
