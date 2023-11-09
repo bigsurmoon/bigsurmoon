@@ -98,17 +98,24 @@ Love: playing electric guitar, movies, astrophysics, video and board games, expl
 
 ### Portfolio
 
-<div width="100%" align="center">
-  <a href="https://github.com/bigsurmoon/diploma" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=diploma&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://github.com/bigsurmoon/diploma" style="width: 45%;">
+    <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=diploma&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/bigsurmoon/java8.1" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=java8.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/bigsurmoon/java8.1" style="width: 45%;">
+    <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=java8.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/bigsurmoon/aqa3.1" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=diploma&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/bigsurmoon/aqa3.1" style="width: 45%;">
+    <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=aqa3.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/bigsurmoon/aqa4.1" style="width: 45%;">
+    <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=aqa4.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/bigsurmoon/aqa8.1" style="width: 45%;">
+    <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=aqa8.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
+
 <br /><br /><br /><br /><br /><br /><br />
 
 ### GitHub Stats
