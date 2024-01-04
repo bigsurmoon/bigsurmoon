@@ -32,6 +32,9 @@ Love: playing electric guitar, movies, astrophysics, video and board games, expl
   <a href="https://t.me/nottinghamlace" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="32" height="32" alt="Telegram" />
   </a>
+  <a href="https://www.codewars.com/users/bigsurmoon" target="_blank" rel="noreferrer">
+    <img src="https://i.imgur.com/TqFvFxp.png" width="32" height="32" alt="Telegram" />
+  </a>
 </p>
 
 ### Skills
