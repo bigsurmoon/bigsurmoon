@@ -61,8 +61,20 @@ Love: playing electric guitar, movies, astrophysics, video and board games, expl
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="36" height="36" alt="selenium"/>
   </a>
+   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="32" height="32" alt="JUnit" />
+  </a>
+  <a href="https://testng.org/" target="_blank" rel="noreferrer">
+    <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text-thumbnail.png" width="32" height="32" alt="JUnit" />
+  </a>
+  <a href="https://gradle.org/" target="_blank" rel="noreferrer">
+    <img src="https://e7.pngegg.com/pngimages/508/156/png-clipart-gradle-computer-icons-transparency-logo-scalable-graphics-share-to-mammal-text-thumbnail.png" width="32" height="32" alt="JUnit" />
+  </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="36" height="36" alt="jenkins"/>
+  </a>
+  <a href="https://allurereport.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4" width="36" height="36" alt="jenkins"/>
   </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="36" height="36" alt="grafana"/>
