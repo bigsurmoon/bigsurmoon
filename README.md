@@ -102,12 +102,6 @@ Love: playing electric guitar, movies, astrophysics, video and board games, expl
   <a href="https://github.com/bigsurmoon/aqa8.1" style="width: 45%;">
     <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=aqa8.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/bigsurmoon/jsaqa-code" style="width: 45%;">
-    <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=jsaqa-code&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/bigsurmoon/jsaqa7.6" style="width: 45%;">
-    <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=jsaqa7.6&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 
