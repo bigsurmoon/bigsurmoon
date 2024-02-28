@@ -103,7 +103,6 @@ Love: playing electric guitar, movies, astrophysics, video and board games, expl
     <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=aqa8.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
-<br /><br /><br /><br /><br /><br /><br />
 
 ### GitHub Stats
 
