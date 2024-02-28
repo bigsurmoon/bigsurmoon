@@ -41,43 +41,70 @@ Love: playing electric guitar, movies, astrophysics, video and board games, expl
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git" />
   </a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50" height="50" alt="Java" />
   </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="36" height="36" alt="android"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" height="50" alt="android"/>
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="50" height="50" alt="Kotlin" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" />
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="postman"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="postman"/>
   </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="36" height="36" alt="selenium"/>
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="50" height="50" alt="selenium"/>
   </a>
    <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="32" height="32" alt="JUnit" />
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="50" height="50" alt="JUnit" />
   </a>
   <a href="https://testng.org/" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text-thumbnail.png" width="32" height="32" alt="JUnit" />
+    <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text-thumbnail.png" width="50" height="50" alt="JUnit" />
   </a>
   <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/508/156/png-clipart-gradle-computer-icons-transparency-logo-scalable-graphics-share-to-mammal-text-thumbnail.png" width="32" height="32" alt="JUnit" />
+    <img src="https://e7.pngegg.com/pngimages/508/156/png-clipart-gradle-computer-icons-transparency-logo-scalable-graphics-share-to-mammal-text-thumbnail.png" width="50" height="50" alt="JUnit" />
   </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="36" height="36" alt="jenkins"/>
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" alt="jenkins"/>
   </a>
   <a href="https://allurereport.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4" width="36" height="36" alt="jenkins"/>
+    <img src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4" width="50" height="50" alt="jenkins"/>
   </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="36" height="36" alt="grafana"/>
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" height="50" alt="grafana"/>
   </a>
 </p>
 
+### Portfolio
+
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://github.com/bigsurmoon/mirapolisTestTask" style="width: 45%;">
+    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=mirapolisTestTask&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/bigsurmoon/diploma" style="width: 45%;">
+    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=diploma&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/bigsurmoon/java8.1" style="width: 45%;">
+    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=java8.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/bigsurmoon/aqa3.1" style="width: 45%;">
+    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=aqa3.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/bigsurmoon/aqa4.1" style="width: 45%;">
+    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=aqa4.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/bigsurmoon/aqa8.1" style="width: 45%;">
+    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=aqa8.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+### GitHub Stats
+
+<a href="https://github.com/bigsurmoon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigsurmoon&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
