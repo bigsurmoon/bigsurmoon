@@ -84,6 +84,10 @@ Love: playing electric guitar, movies, astrophysics, video and board games, expl
 ### Portfolio
 
 <div style="display: flex; justify-content: space-around;">
+  <a href="https://github.com/bigsurmoon/mirapolisTestTask" style="width: 45%;">
+    <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=diploma&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+<div style="display: flex; justify-content: space-around;">
   <a href="https://github.com/bigsurmoon/diploma" style="width: 45%;">
     <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=diploma&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
