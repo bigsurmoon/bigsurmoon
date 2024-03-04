@@ -80,31 +80,3 @@ Love: playing electric guitar, movies, astrophysics, video and board games, expl
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" height="50" alt="grafana"/>
   </a>
 </p>
-
-### Portfolio
-
-<div style="display: flex; justify-content: space-around;">
-  <a href="https://github.com/bigsurmoon/mirapolisTestTask" style="width: 45%;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=mirapolisTestTask&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/bigsurmoon/diploma" style="width: 45%;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=diploma&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/bigsurmoon/java8.1" style="width: 45%;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=java8.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/bigsurmoon/aqa3.1" style="width: 45%;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=aqa3.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/bigsurmoon/aqa4.1" style="width: 45%;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=aqa4.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/bigsurmoon/aqa8.1" style="width: 45%;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsurmoon&repo=aqa8.1&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
-
-### GitHub Stats
-
-<a href="https://github.com/bigsurmoon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigsurmoon&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
